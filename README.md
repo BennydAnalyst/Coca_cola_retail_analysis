@@ -11,3 +11,5 @@ KPI'S
 2. Price
 3. Total Sales
 4. Total unit sold
+
+![](https://github.com/BennydAnalyst/Coca_cola_retail_analysis/blob/main/Cocacola%20dashboard%20Excel.jpeg)
